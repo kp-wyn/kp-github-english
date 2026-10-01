@@ -1,6 +1,6 @@
 # 用GitHub学英语 · kp-github-english
 
-> 「X一下」轻量技能家族 · 第 5 个成员 · 学习闭环型技能
+> 知识宫殿挂载技能 · 英语学习主题 · 开源发布
 > 把 GitHub 开源仓库当真实英语语料库，五步闭环学英语：选仓 → 采句 → 建卡 → 复盘 → 人机协同。
 
 **English README:** [README.en.md](./README.en.md)

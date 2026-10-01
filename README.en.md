@@ -1,6 +1,6 @@
 # Learn English with GitHub · kp-github-english
 
-> 5th member of the "X-It" lightweight skill family · learning-loop skill
+> A mounted skill of the Knowledge Palace · English Learning theme · open-source release
 > Use GitHub open-source repositories as a real-world English corpus, and learn with a five-step loop: Pick a repo → Collect sentences → Build cards → Review → Human-AI collaboration.
 
 **中文说明:** [README.md](./README.md)
