@@ -51,7 +51,7 @@
 |------|------|------|
 | 记一下 | [kp-remember](https://github.com/kp-wyn/kp-remember) | 已发布 |
 | 收拾一下 | [kp-tidy-up](https://github.com/kp-wyn/kp-tidy-up) | 已发布 |
-| 理一下 | kp-sum-up | 即将推出 |
+| 理一下 | [kp-sum-up](https://github.com/kp-wyn/kp-sum-up) | 已发布 |
 | 消化一下 | kp-digest | 挂载版已建 |
 | 用GitHub学英语 | kp-github-english | 本技能 |
 

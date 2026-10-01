@@ -51,7 +51,7 @@ Methodology whitepaper: [knowledge-palace](https://github.com/kp-wyn/knowledge-p
 |---------|-------|--------|
 | 记一下 | [kp-remember](https://github.com/kp-wyn/kp-remember) | Published |
 | 收拾一下 | [kp-tidy-up](https://github.com/kp-wyn/kp-tidy-up) | Published |
-| 理一下 | kp-sum-up | Coming soon |
+| 理一下 | [kp-sum-up](https://github.com/kp-wyn/kp-sum-up) | Published |
 | 消化一下 | kp-digest | Mounted version built |
 | 用GitHub学英语 | kp-github-english | This skill |
 
